@@ -1,1 +1,3 @@
 rootProject.name = 'smart-store'
+include 'api'
+include 'core'
