@@ -8,3 +8,6 @@
 
 - Mysql
 
+- Redis
+- AWS
+-
